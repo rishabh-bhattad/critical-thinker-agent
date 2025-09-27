@@ -1,0 +1,3 @@
+# Ignore cache and .env file which will have API keys
+__pycache__/
+.env
